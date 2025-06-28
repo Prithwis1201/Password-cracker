@@ -4,4 +4,4 @@ This is a python based simple password cracker, you can integrate this in your v
 Just open VS code and paste the python code given.
 If you want to integrate it into exploiting tools you will have to write a code with binding handshakes to procure the pass. letter by letter, It will crack it but it will take time.
 So be patient and trust it.
-Works best on shorter and alphanumerical passwords you can adjust its character data deposit by modifying the data reserve in the code.
+Works best on shorter and alphanumerical passwords you can adjust its character data deposit by modifying the data reserve in the code (Line 8).
